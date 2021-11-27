@@ -11772,7 +11772,16 @@ section#contact form#contactForm :-ms-input-placeholder {
   color: #ced4da;
 }
 
+.searchbar{
+  position: relative;
+}
 
+.searchbar .input{
+  padding: 0px 35px;
+  border-radius: 50px;
+  box-shadow: 0 0 15px 1px #b6bbc0;
+
+}
 
 .footer {
   text-align: center;
