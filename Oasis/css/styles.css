@@ -11838,3 +11838,11 @@ section#signup form#contactForm :-ms-input-placeholder {
   transition: all 0.5s linear;
 
 }
+
+label {
+  color: #fff;
+}
+
+.form-group p {
+  color: #fff;
+}
