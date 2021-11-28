@@ -11809,3 +11809,32 @@ section#signup form#contactForm :-ms-input-placeholder {
   background-color: #d9aa00;
   border-color: #cca000;
 }
+
+.searchbar{
+  position: relative;
+  display: inline-block;
+}
+
+.searchbar .input{
+  padding: 0px 35px;
+  border-radius: 50px;
+  box-shadow: 0 0 15px 1px #b6bbc0;
+  outline: none;
+  color: var(--bs-yellow);
+  font-size: 24px;
+  font-weight: bold;
+  transition: all 0.5s linear;
+}
+
+.search-button {
+  float: right;
+  background: var(--bs-yellow);
+  width: 40px;
+  height: 40px;
+  top: 0;
+  right: -1px;
+  cursor: pointer;
+  border-radius: 50%;
+  transition: all 0.5s linear;
+
+}
